@@ -55,3 +55,5 @@ Bot output:
 ```sh
 #art #magic #tag1 #tag2 #tag3 #tag4 #watermelon #арт #белый #магия #небо #след
 ```
+
+Also, the bot's output will be framed with back quotes in Markdown format "`" to make it easy to copy the output.
