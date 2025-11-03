@@ -2,6 +2,9 @@
 
 This bot sorts the tags in alphabetical order.
 
+- [Launching the bot](#launching-the-bot)
+- [Usage](#usage)
+
 ## Launching the bot
 
 The bot is waiting for a separate file `config.py` with the following contents:
@@ -30,7 +33,7 @@ Tags can be specified with or without the "#" symbol:
 #tag1 #tag2 #тег3 #тег4
 ```
 
-и
+and
 
 ```sh
 tag1 tag2 тег3 тег4
