@@ -19,7 +19,7 @@ bot = telebot.TeleBot(settings['token'])
 def start_message(message):
     """The help message to start with"""
     msg = """
-Бот под MIT лицензией: https://github.com/Senyos/hashtag_sorter
+Бот под `MIT` лицензией: [ссылка на GitHub](https://github.com/Senyos/hashtag_sorter)
 
 Теги можно указывать и с и без символа "#":
 ```sh
