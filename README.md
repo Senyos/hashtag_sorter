@@ -4,6 +4,7 @@ This bot sorts the tags in alphabetical order.
 
 - [Launching the bot](#launching-the-bot)
 - [Usage](#usage)
+- [Example](#example)
 
 ## Launching the bot
 
@@ -40,3 +41,17 @@ tag1 tag2 тег3 тег4
 ```
 
 they will be processed identically.
+
+## Example
+
+User input:
+
+```sh
+tag1 #tag3 #tag2 tag4 watermelon art magic магия арт небо белый след
+```
+
+Bot output:
+
+```sh
+#art #magic #tag1 #tag2 #tag3 #tag4 #watermelon #арт #белый #магия #небо #след
+```
